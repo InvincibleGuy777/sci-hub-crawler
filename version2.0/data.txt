@@ -1,0 +1,301 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Liu, Bo
+   Zhong, Haowen
+   Xiao, Yanshan
+TI New Multi-View Classification Method with Uncertain Data
+SO ACM TRANSACTIONS ON KNOWLEDGE DISCOVERY FROM DATA
+VL 16
+IS 1
+AR 19
+DI 10.1145/3458282
+PD JUN 2021
+PY 2021
+TC 0
+ZB 0
+ZA 0
+ZR 0
+Z8 0
+ZS 0
+Z9 0
+SN 1556-4681
+EI 1556-472X
+UT WOS:000675516600017
+ER
+
+PT C
+AU Ma, Guixiang
+   He, Lifang
+   Lu, Chun-Ta
+   Shao, Weixiang
+   Yu, Philip S.
+   Leow, Alex D.
+   Ragin, Ann B.
+GP Assoc Comp Machinery
+TI Multi-view Clustering with Graph Embedding for Connectome Analysis
+SO CIKM'17: PROCEEDINGS OF THE 2017 ACM CONFERENCE ON INFORMATION AND
+   KNOWLEDGE MANAGEMENT
+BP 127
+EP 136
+DI 10.1145/3132847.3132909
+PD 2017
+PY 2017
+CT ACM Conference on Information and Knowledge Management (CIKM)
+CY NOV 06-10, 2017
+CL Singapore, SINGAPORE
+SP Assoc Comp Machinery; Assoc Comp Machinery, Special Interest Grp
+   Informat Retrieval; ACM SIGWEB; Grab; Living Analyt Res Ctr; Shopee
+RI Ragin, Ann/R-5149-2019; He, Lifang/D-8175-2016; Leow, Alex/AAU-8981-2020
+OI He, Lifang/0000-0001-7810-9071; Leow, Alex/0000-0002-5660-8651
+Z8 0
+TC 14
+ZR 0
+ZS 0
+ZB 0
+ZA 0
+Z9 14
+BN 978-1-4503-4918-5
+UT WOS:000440845300013
+ER
+
+PT J
+AU LI Bo
+   ZHAO Jiankang
+   DAI Jinhai
+Z2 李波
+   赵健康
+   戴金海
+TI Analysis of Multi-view Response in Aircraft Design and Concurrent
+   Engineering
+Z1 飞行器设计并行工程中多视图响应分析
+Z3 计算机仿真
+SO Computer Simulation
+VL 23
+IS 9
+BP 19
+EP 22
+AR 1006-9348(2006)23:9<19:FXQSJB>2.0.TX;2-I
+PD 2006
+PY 2006
+ZR 0
+ZS 0
+ZB 0
+TC 0
+Z8 0
+Z9 0
+SN 1006-9348
+UT CSCD:2439656
+ER
+
+PT J
+AU Zhong Yingyu
+   Chen Songcan
+Z2 钟颖宇
+   陈松灿
+TI High-order Multi-view Outlier Detection
+Z1 高阶多视图离群点检测
+Z3 计算机科学
+SO Computer Science
+VL 47
+IS 9
+BP 99
+EP 104
+AR 1002-137X(2020)47:9<99:GJDSTL>2.0.TX;2-2
+PD 2020
+PY 2020
+ZS 0
+ZB 0
+TC 0
+Z8 0
+ZA 0
+ZR 0
+Z9 0
+SN 1002-137X
+UT CSCD:6803843
+ER
+
+PT C
+AU Xie, Xijiong
+   Sun, Shiliang
+GP IEEE
+TI Multi-view Clustering Ensembles
+SO PROCEEDINGS OF 2013 INTERNATIONAL CONFERENCE ON MACHINE LEARNING AND
+   CYBERNETICS (ICMLC), VOLS 1-4
+SE International Conference on Machine Learning and Cybernetics
+BP 51
+EP 56
+PD 2013
+PY 2013
+CT International Conference on Machine Learning and Cybernetics (ICMLC)
+CY JUL 14-17, 2013
+CL Tianjin, PEOPLES R CHINA
+SP IEEE; Hebei Univ; IEEE Syst, Man & Cybernet Soc; S China Univ Technol;
+   Univ Macau; Chongqing Univ; Shenzhen Grad Sch, Harbin Inst Technol; Univ
+   Ulster; City Univ Hong Kong; Univ Cagliari Dept Elect & Elect Engn;
+   Hebei Univ Sci & Technol
+ZS 0
+ZA 0
+TC 20
+ZB 1
+Z8 0
+ZR 0
+Z9 20
+SN 2160-133X
+BN 978-1-4799-0260-6
+UT WOS:000366853800010
+ER
+
+PT J
+AU Ko, Ilju
+AU 성보경
+   박준형
+   여지혜
+TI User-created multi-view video generation with portable camera in mobile
+   environment
+Z1 모바일 환경의 이동형 카메라를 이용한 사용자 저작 다시점 동영상의 제안
+SO Journal of the Korea Society of Digital Industry and Information
+   Management
+S1 (사)디지털산업정보학회 논문지
+VL 8
+IS 1
+BP 157
+EP 170
+PD 2012
+PY 2012
+ZR 0
+ZS 0
+ZA 0
+Z8 0
+ZB 0
+TC 0
+Z9 0
+SN 1738-6667
+UT KJD:ART001647912
+ER
+
+PT J
+AU Zhang Enhao
+   Chen Xiaohong
+   Liu Hong
+   Zhu Yulian
+Z2 张恩豪
+   陈晓红
+   刘鸿
+   朱玉莲
+TI Overview of Multi-view Dimension Reduction Algorithm Based on Canonical
+   Correlation Analysis
+Z1 基于典型相关分析的多视图降维算法综述
+Z3 计算机工程
+SO Computer Engineering
+VL 46
+IS 2
+BP 1
+EP 10
+AR 1000-3428(2020)46:2<1:JYDXXG>2.0.TX;2-9
+PD 2020
+PY 2020
+ZB 0
+ZS 0
+ZA 0
+TC 0
+Z8 2
+ZR 0
+Z9 2
+SN 1000-3428
+UT CSCD:6665233
+ER
+
+PT C
+AU Tao, Yingshan
+   Yuan, Haoliang
+   Lai, Chun Sing
+   Lai, Loi Lei
+GP IEEE
+TI MULTI-VIEW COLLABORATIVE REPRESENTATION CLASSIFICATION
+SO PROCEEDINGS OF 2019 INTERNATIONAL CONFERENCE ON MACHINE LEARNING AND
+   CYBERNETICS (ICMLC)
+SE International Conference on Machine Learning and Cybernetics
+BP 240
+EP 245
+PD 2019
+PY 2019
+CT International Conference on Machine Learning and Cybernetics (IMLC)
+CY JUL 07-10, 2019
+CL Kobe, JAPAN
+SP IEEE Syst Man & Cybernet Soc; Univ Adelaide; Univ Hyogo; NSK FAM; SECOM
+   Sci & Technol Fdn; Kobe Convent Bur; Kajima Fdn; Murata Sci Fdn; Univ
+   Alberta; Ulster Univ; Portsmouth Univ; Univ Cagliari, Dept Elect & Elect
+   Engn
+RI Lai, Loi Lei/AAQ-1715-2021; Lai, Chun Sing Sing/AAP-9779-2021
+OI Lai, Loi Lei/0000-0003-4786-7931; Lai, Chun Sing
+   Sing/0000-0002-4169-4438
+ZB 0
+ZA 0
+TC 0
+ZR 0
+ZS 0
+Z8 0
+Z9 0
+SN 2160-133X
+BN 978-1-7281-2816-0
+UT WOS:000529201300041
+ER
+
+PT J
+AU BAE, KIM MAN
+AU 권준섭
+   황원영
+   최창열
+   장은영
+   허남호
+   김진웅
+   권준섭
+TI Multi-View Video Processing: IVR, Graphics Composition, and Viewer
+SO JOURNAL OF BROADCAST ENGINEERING
+S1 방송공학회 논문지
+VL 12
+IS 4
+PD 2007
+PY 2007
+ZR 0
+ZS 0
+ZA 0
+ZB 0
+TC 0
+Z8 0
+Z9 0
+SN 1226-7953
+UT KJD:ART001083767
+ER
+
+PT J
+AU Deng Qiang
+   Yang Yan
+   Wang Hao
+Z2 邓强
+   杨燕
+   王浩
+TI Improved Multi-view Clustering Ensemble Algorithm
+Z1 一种改进的多视图聚类集成算法
+Z3 计算机科学
+SO Computer Science
+VL 44
+IS 1
+BP 65
+EP 70
+AR 1002-137X(2017)44:1<65:YZGJDD>2.0.TX;2-5
+PD 2017
+PY 2017
+ZR 0
+ZA 0
+Z8 3
+ZS 0
+TC 0
+ZB 0
+Z9 3
+SN 1002-137X
+UT CSCD:5917712
+ER
+
+EF
