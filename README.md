@@ -11,31 +11,48 @@ A small and simple project to crawl the pdf resources on sci-hub according to th
 
 **csdn blog url**: https://me.csdn.net/weixin_42430021
 
+# 日志
+
+**2021-9-16** \
+上传了version2.0版本，将基站 sci-hub.do(目前不可用)更改为了 sci-hub.ren，并使得模式匹配(找寻pdf文件的url所在的html层次)恢复正常；成功下载的pdf文件会保存在documents文件夹下(程序执行过程中会自动创建该文件夹)。
 
 # How to Use
 
+0. 爬虫代码比较脆弱，可能今天能用明天就用不了了，因此请**尽量使用最新版本的代码!**
+
 1. 打开 Web of Science，搜索感兴趣的内容，得到一个搜索结果列表
 
-2. 点击 "**导出为其他文件格式**" 按钮，记录条数自选，**记录内容**为**作者、标题、来源出版物**，**文件格式**选择**HTML**，然后点击"导出"，记录该 html 文件的 **绝对路径** `filepath` (也可以是相对路径) 
+2. 点击 "**导出为其他文件格式**" 按钮，记录条数自选，**记录内容**为**作者、标题、来源出版物**，**文件格式**可选择**HTML**或**TXT文本文件**，然后点击"导出"，记录该导出文件在电脑中的 **绝对路径** `filepath` (也可以是相对于主函数文件sci__spider.py的相对路径) 
 
-3. 调用 **doi_crawler(filepath)**，返回一个 doi 列表，将之命名为 `doi_list`
+3. 调试并运行 *sci__spider.py*
 
-4. 调用 **sci_hub_crawler(doi_list, get_link=get_link_xpath, nolimit=True, cache=Cache(cache_dir))**，如果不需要缓存，可以不传参至 `cache`。另外说明的是，`cache_dir` 是缓存文件的路径，一般用**相对路径**即可；其余参数根据需要来调整
-
-5. 等待结果
+4. 等待结果
 
 # Examples
+这里以导出文件为.txt的为例，程序的主函数如下：
 
 ```python
 if __name__ == '__main__':
     from time import time
     start = time()
-    filepath = './example_data.html'  # doi所在的原始 html
-    cache_dir = './cache.txt'  # 缓存路径
+    filepath = './data.txt'  # doi所在的原始 txt (由web-of-science 搜索结果导出的plain text file)
+    cache_dir = './cache_ver2.txt'  # 缓存路径(可更改名称，不可改扩展名)
+    start_url = 'sci-hub.ren'
     cache = Cache(cache_dir)
-    sci_spider(filepath, nolimit=True, cache=cache)
+    sci_spider(filepath, start_url=start_url, nolimit=True, cache=cache)
     print('time spent: %ds' % (time() - start))
 ```
+
+注：
+1. `filepath` 是web-of-science中导出的论文信息查询列表文件在本地磁盘中的路径，推荐放在代码所在的主目录下，这样就可以用简单的相对路径表示了
+
+2. `start_url` 是 sci-hub的基站，比如sci-hub.ren等，如果当前的用不了，可更换其他可用的url。(不会找的话可以在CSDN上私信笔者)
+
+3. `cache_dir` 是缓存文件的路径，一般用**相对路径**即可；其余参数根据需要来调整
+
+4. `cache` 是缓存类Cache的实例，是sci_spider函数的可选参数。当爬取大量文件时容易出错，可能导致程序终止。缓存记录了已下载的文件，可以避免重复下载，有效应对程序终止的异常情况
+
+5. 代码执行过程中存在警告信息，可以忽略
 
 # Link for more detail
 
