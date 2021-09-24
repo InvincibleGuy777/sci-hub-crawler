@@ -18,7 +18,7 @@ A small and simple project to crawl the pdf resources on sci-hub according to th
 
 1. error - list index out of range: 这是由于pdf文献的url在网页中的层次不一致所致，有些为buttons/button，还有些为buttons/ul/li/a，而以往代码只考虑了其中一种层次，解决方法是两种情况全部考虑(不排除还有其他的层次)，筛选列表不为空的即可。
 
-2. error - Invalid URL: 调用requests.get(url, ...)时，有些url中存在转义字符'\'，比如*https:\/\/sci.bban.top\/pdf\/10.1145\/3132847.3132909.pdf?download=true*，导致get()方法误认为'\'需要转义，从而额外添加转义字符'\'，使得上述url变为*https:\\/\\/sci.bban.top\\/pdf\\/10.1145\\/3132847.3132909.pdf?download=true*，因而出错。解决方法是，在GET请求前去掉url中的转义字符'\'。
+2. error - Invalid URL: 调用requests.get(url, ...)时，有些url中存在转义字符'\'，比如*https:\\/\\/sci.bban.top\\/pdf\\/10.1145\\/3132847.3132909.pdf?download=true*，导致get()方法误认为'\'需要转义，从而额外添加转义字符'\'，使得上述url变为*https:\\\\/\\\\/sci.bban.top\\\\/pdf\\\\/10.1145\\\\/3132847.3132909.pdf?download=true*，因而出错。解决方法是，在GET请求前去掉url中的转义字符'\'。
 
 **2021-9-16** \
 上传了version2.0版本，将基站 sci-hub.do(目前不可用)更改为了 sci-hub.ren，并使得模式匹配(找寻pdf文件的url所在的html层次)恢复正常；成功下载的pdf文件会保存在documents文件夹下(程序执行过程中会自动创建该文件夹)。
