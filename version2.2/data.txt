@@ -1,0 +1,945 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT C
+AU Yumoto, Hina
+   Kodama, Shuhei
+   Takahashi, Tokiichiro
+BE Kemao, Q
+   Hayase, K
+   Lau, PY
+   Lie, WN
+   Lee, YL
+   Srisuk, S
+   Yu, L
+TI A real-time rendering method based on contour drawing techniques in
+   Japanese ink painting
+SO INTERNATIONAL WORKSHOP ON ADVANCED IMAGE TECHNOLOGY (IWAIT) 2019
+SE Proceedings of SPIE
+VL 11049
+AR UNSP 1104916
+DI 10.1117/12.2521265
+DT Proceedings Paper
+PD 2019
+PY 2019
+CT International Workshop on Advanced Image Technology (IWAIT)
+CY JAN 06-09, 2019
+CL Singapore, SINGAPORE
+SP Nanyang Technol Univ, Multi Platform Game Innovat Ctr; EON Real; Nanyang
+   Technol Univ, Sch Art, Design & Media; SPIE
+TC 0
+ZA 0
+ZB 0
+ZS 0
+ZR 0
+Z8 0
+Z9 0
+SN 0277-786X
+EI 1996-756X
+BN 978-1-5106-2774-1
+UT WOS:000464743900041
+ER
+
+PT J
+AU SUN Yi-hui
+   CHEN Fu-min
+   WANG Hai-feng
+Z2 孙益辉
+   陈福民
+   王海峰
+TI Real-time distributed rendering system based on OGRE
+Z1 一种基于OGRE图形引擎的实时分布式渲染系统
+Z3 计算机工程与应用
+SO Computer Engineering and Application
+VL 44
+IS 31
+BP 102
+EP 103,111
+AR 1002-8331(2008)44:31<102:YZJYOT>2.0.TX;2-8
+DT Article
+PD 2008
+PY 2008
+ZB 0
+ZA 0
+Z8 3
+TC 0
+ZR 0
+ZS 0
+Z9 3
+SN 1002-8331
+UT CSCD:3428378
+ER
+
+PT J
+AU Zhang Hanling
+   Hao Chongyang
+   Zhang Xianyong
+   Lei Fangyuan
+Z2 张汗灵
+   郝重阳
+   张先勇
+   雷方元
+TI Real-time rendering approach based on image
+Z1 基于图象的实时绘制技术
+Z3 信息与控制
+SO Information and Control
+VL 32
+IS 1
+BP 56
+EP 60,64
+AR 1002-0411(2003)32:1<56:JYTXDS>2.0.TX;2-2
+DT Article
+PD 2003
+PY 2003
+ZR 0
+ZS 0
+TC 0
+ZA 0
+ZB 0
+Z8 0
+Z9 0
+SN 1002-0411
+UT CSCD:1292634
+ER
+
+PT J
+AU Li Hui
+   Zhai Lei
+   Lin Chengkai
+   Pan Jingui
+Z2 李惠
+   翟磊
+   林诚凯
+   潘金贵
+TI A Real-Time Rendering Method of Large Scale Terrain
+Z1 一种超大规模地形的实时渲染方法
+Z3 系统仿真学报
+SO Journal of System Simulation
+VL 16
+IS 4
+BP 736
+EP 739
+AR 1004-731X(2004)16:4<736:YZCDGM>2.0.TX;2-J
+DT Article
+PD 2004
+PY 2004
+ZA 0
+ZR 0
+ZS 0
+ZB 0
+Z8 10
+TC 0
+Z9 10
+SN 1004-731X
+UT CSCD:1596919
+ER
+
+PT J
+AU ZHANG Yong
+   YIN Bao-cai
+   KONG De-hui
+   YANG Guang-wei
+Z2 张勇
+   尹宝才
+   孔德慧
+   杨光伟
+TI GPU-based Real-time Crowd Rendering
+Z1 基于GPU的实时人群混合绘制
+Z3 北京工业大学学报
+SO Journal of Beijing University of Technology
+VL 35
+IS 10
+BP 1434
+EP 1440
+AR 0254-0037(2009)35:10<1434:JYGDSS>2.0.TX;2-K
+DT Article
+PD 2009
+PY 2009
+ZA 0
+ZB 0
+TC 0
+Z8 0
+ZS 0
+ZR 0
+Z9 0
+SN 0254-0037
+UT CSCD:3786374
+ER
+
+PT J
+AU Liu Xunyun
+   Xu Xinhai
+   Zhu Chengzhang
+   Li Hao
+   Zeng Lei
+Z2 刘逊韵
+   徐新海
+   朱成璋
+   李豪
+   曾蕾
+TI Ultra-Real-Time Visual Simulation System for Multi-View Rendering Tasks
+Z1 面向多视角渲染任务的超实时可视仿真系统
+Z3 系统仿真学报
+SO Journal of System Simulation
+VL 34
+IS 7
+BP 1619
+EP 1628
+AR 1004-731X(2022)34:7<1619:MXDSJX>2.0.TX;2-T
+DT Article
+PD 2022
+PY 2022
+TC 0
+ZB 0
+ZS 0
+ZR 0
+Z8 0
+ZA 0
+Z9 0
+SN 1004-731X
+UT CSCD:7250006
+ER
+
+PT J
+AU Du Jianxia
+   Chan Shouyi
+   Li Fengxia
+Z2 杜剑侠
+   战守义
+   李凤霞
+TI Out-of-core Rendering of Terrain's in Real-time
+Z1 一种基于外存的地形实时绘制方法
+Z3 计算机工程
+SO Computer Engineering
+VL 33
+IS 6
+BP 219
+EP 221
+AR 1000-3428(2007)33:6<219:YZJYWC>2.0.TX;2-2
+DT Article
+PD 2007
+PY 2007
+TC 0
+ZA 0
+ZS 0
+ZB 0
+Z8 1
+ZR 0
+Z9 1
+SN 1000-3428
+UT CSCD:2719692
+ER
+
+PT J
+AU TANG Yong
+   LI Yuan
+   LV Meng-ya
+Z2 唐勇
+   李原
+   吕梦雅
+TI Lengyel Fur Real-time Rendering Based on Polynomial Texture Maps
+Z1 基于多项式纹理的Lengyel毛发实时绘制
+Z3 计算机工程
+SO Computer Engineering
+VL 35
+IS 18
+BP 203
+EP 205
+AR 1000-3428(2009)35:18<203:JYDXSW>2.0.TX;2-#
+DT Article
+PD 2009
+PY 2009
+ZR 0
+ZB 0
+ZA 0
+TC 0
+Z8 0
+ZS 0
+Z9 0
+SN 1000-3428
+UT CSCD:3667496
+ER
+
+PT J
+AU Huai Yongjian
+   Wang Meifeng
+   Zuo Zhengxing
+   Huang Xinyuan
+Z2 淮永建
+   王梅峰
+   左正兴
+   黄心渊
+TI The State of Real-time Rendering of Vegetation in VE
+Z1 虚拟环境中森林植被的实时可视化技术研究
+Z3 计算机工程与应用
+SO Computer Engineering and Application
+VL 40
+IS 35
+BP 33
+EP 36
+AR 1002-8331(2004)40:35<33:XNHJZS>2.0.TX;2-G
+DT Article
+PD 2004
+PY 2004
+ZR 0
+Z8 4
+ZB 0
+TC 0
+ZS 0
+Z9 4
+SN 1002-8331
+UT CSCD:1849014
+ER
+
+PT J
+AU Feng Xiaomeng
+   Wu Lingda
+   Dong Shiwei
+Z2 冯晓萌
+   吴玲达
+   董士伟
+TI CUDA Accelerated Real-time Rendering for Dynamic Electromagnetic
+   Environment Volume Data
+Z1 CUDA加速的动态电磁环境数据场实时绘制
+Z3 系统仿真学报
+SO Journal of System Simulation
+VL 26
+IS 9
+BP 2044
+EP 2049
+AR 1004-731X(2014)26:9<2044:CJSDDT>2.0.TX;2-7
+DT Article
+PD 2014
+PY 2014
+ZR 0
+ZA 0
+TC 2
+ZS 0
+ZB 0
+Z8 5
+Z9 6
+SN 1004-731X
+UT CSCD:5221120
+ER
+
+PT J
+AU CHENG Zhiquan
+   DANG Gang
+   JIN Shiyao
+Z2 程志全
+   党岗
+   金士尧
+TI A Survey of Realistic Real-Time Rendering Technologies
+Z1 真实感实时绘制技术综述
+Z3 计算机工程与科学
+SO Computer Engineering and Science
+VL 28
+IS 9
+BP 41
+EP 43,63
+AR 1007-130X(2006)28:9<41:ZSGSSH>2.0.TX;2-R
+DT Article
+PD 2006
+PY 2006
+ZS 0
+Z8 2
+TC 0
+ZR 0
+ZB 0
+Z9 2
+SN 1007-130X
+UT CSCD:2439409
+ER
+
+PT J
+AU LIU Xiaoping
+   YU Ye
+   KONG Jieqiong
+   CHEN Hao
+Z2 刘晓平
+   余烨
+   孔洁琼
+   陈皓
+TI Scene Management Method in Collaborative Rendering Environment
+Z1 一种协同渲染环境下的场景管理策略
+Z3 系统仿真学报
+SO Journal of System Simulation
+VL 19
+IS 1
+BP 85
+EP 88
+AR 1004-731X(2007)19:1<85:YZXTXR>2.0.TX;2-R
+DT Article
+PD 2007
+PY 2007
+TC 0
+Z8 3
+ZS 0
+ZR 0
+ZA 0
+ZB 0
+Z9 3
+SN 1004-731X
+UT CSCD:2731621
+ER
+
+PT J
+AU Lu Tianchao
+   Guo Jie
+   Pan Jingui
+Z2 陆添超
+   过洁
+   潘金贵
+TI Real-time Rendering of Transparency and Translucency with Rough Surfaces
+Z1 粗糙表面下的实时透明和半透明效果绘制
+Z3 系统仿真学报
+SO Journal of System Simulation
+VL 25
+IS 9
+BP 2157
+EP 2163
+AR 1004-731X(2013)25:9<2157:CCBMXD>2.0.TX;2-6
+DT Article
+PD 2013
+PY 2013
+ZS 0
+ZB 0
+ZA 0
+Z8 0
+TC 0
+ZR 0
+Z9 0
+SN 1004-731X
+UT CSCD:4991889
+ER
+
+PT J
+AU Mortensen, Jesper
+   Yu, Insu
+   Khanna, Pankaj
+   Tecchia, Franco
+   Marino, Giuseppe
+   Spanlang, Bernhard
+   Slater, Mel
+TI Real-Time Global Illumination for VR Applications
+SO IEEE COMPUTER GRAPHICS AND APPLICATIONS
+VL 28
+IS 6
+BP 56
+EP 64
+DI 10.1109/MCG.2008.121
+DT Article
+PD NOV-DEC 2008
+PY 2008
+RI Slater, Mel/M-5210-2014; Spanlang, Bernhard/
+OI Slater, Mel/0000-0002-6223-0050; Spanlang, Bernhard/0000-0002-9659-635X
+ZB 0
+ZR 0
+ZS 0
+ZA 0
+Z8 0
+TC 9
+Z9 9
+SN 0272-1716
+EI 1558-1756
+UT WOS:000260426500008
+PM 19004685
+ER
+
+PT J
+AU Feng Xiaomeng
+   Wu Lingda
+   Yang Chao
+Z2 冯晓萌
+   吴玲达
+   杨超
+TI Real-time Volume Rendering Technique for Complex Electromagnetic
+   Environment Space Data Based on CUDA Architecture
+Z1 基于CUDA架构的复杂电磁环境空间数据实时体绘制技术
+Z3 系统仿真学报
+SO Journal of System Simulation
+VL 26
+IS 7
+BP 1549
+EP 1553
+AR 1004-731X(2014)26:7<1549:JYCJGD>2.0.TX;2-Y
+DT Article
+PD 2014
+PY 2014
+ZS 0
+TC 2
+ZR 0
+ZA 0
+ZB 0
+Z8 3
+Z9 5
+SN 1004-731X
+UT CSCD:5202027
+ER
+
+PT J
+AU Cheng Xiang
+   Shi Zhiyong
+   He Tao
+   Long Pengcheng
+   Zhang Shu
+   Jiang Ping
+   Ge Peng
+Z2 程翔
+   石志勇
+   何桃
+   龙鹏程
+   张澍
+   江平
+   葛鹏
+TI Real-time Interactive Rendering for Nuclear Radiation Safety Simulation
+Z1 核辐射安全仿真实时交互渲染方法
+Z3 核科学与工程
+SO Nuclear Science and Engineering
+VL 36
+IS 5
+BP 651
+EP 655
+AR 0258-0918(2016)36:5<651:HFSAQF>2.0.TX;2-U
+DT Article
+PD 2016
+PY 2016
+RI Neutronics, CAS Key La/H-9780-2017
+OI Neutronics, CAS Key La/0000-0002-9920-6556
+ZB 0
+ZR 0
+ZS 0
+Z8 0
+TC 0
+Z9 0
+SN 0258-0918
+UT CSCD:5872881
+ER
+
+PT J
+AU Wu Jinzhong
+   Liu Xuehui
+   Wu Enhua
+Z2 吴金钟
+   刘学慧
+   吴恩华
+TI Real-Time Rendering for Out-of-Core Terrain Model
+Z1 超量外存地表模型的实时绘制技术
+Z3 计算机辅助设计与图形学学报
+SO Journal of Compute-Aided Design and Graphics
+VL 17
+IS 10
+BP 2196
+EP 2202
+AR 1003-9775(2005)17:10<2196:CLWCDB>2.0.TX;2-A
+DT Article
+PD 2005
+PY 2005
+ZA 0
+Z8 4
+ZR 0
+ZS 0
+TC 1
+ZB 0
+Z9 5
+SN 1003-9775
+UT CSCD:2182701
+ER
+
+PT C
+AU Wu, MS
+   Sun, HH
+   Shum, HY
+BE Ngan, KN
+   Sikora, T
+   Sun, MT
+TI Real-time stereo rendering of concentric mosaics with linear
+   interpolation
+SO VISUAL COMMUNICATIONS AND IMAGE PROCESSING 2000, PTS 1-3
+SE Proceedings of SPIE
+VL 4067
+BP 23
+EP 30
+DI 10.1117/12.386643
+PN 1-3
+DT Proceedings Paper
+PD 2000
+PY 2000
+CT Conference on Visual Communications and Image Processing
+CY JUN 20-23, 2000
+CL PERTH, AUSTRALIA
+SP Univ Western Australia; Inst Engineers; Soc Imaging Sci & Technol; SPIE;
+   IEEE
+ZA 0
+ZB 0
+TC 1
+ZR 0
+ZS 0
+Z8 0
+Z9 1
+SN 0277-786X
+EI 1996-756X
+BN 0-8194-3703-4
+UT WOS:000089016900003
+ER
+
+PT J
+AU Zhai Xiaoming
+   Ren Hongxiang
+   Zhang Xinyu
+   Lian Jingjing
+Z2 翟小明
+   任鸿翔
+   张新宇
+   廉静静
+TI Real-Time Rendering of Large-Scale Terrain Environment in Marine Search
+   and Rescue Simulator
+Z1 海上搜救模拟器中大规模地形场景的实时绘制
+Z3 中国航海
+SO Journal of Navigation of China
+VL 34
+IS 3
+BP 5
+EP 9
+AR 1000-4653(2011)34:3<5:HSXJMN>2.0.TX;2-U
+DT Article
+PD 2011
+PY 2011
+TC 0
+ZR 0
+ZB 0
+ZS 0
+Z8 0
+ZA 0
+Z9 0
+SN 1000-4653
+UT CSCD:4327389
+ER
+
+PT J
+AU Gao Yang
+   Wei Houming
+   Cao Weiqun
+   Cui Ying
+Z2 高阳
+   魏厚明
+   曹卫群
+   崔颖
+TI Research and Implementation of Tree Leaves Realistic Real-time Rendering
+   Method
+Z1 树叶真实感实时绘制方法的研究与实现
+Z3 系统仿真学报
+SO Journal of System Simulation
+VL 22
+IS 11
+BP 2708
+EP 2711
+AR 1004-731X(2010)22:11<2708:SYZSGS>2.0.TX;2-R
+DT Article
+PD 2010
+PY 2010
+ZS 0
+ZR 0
+TC 0
+ZB 0
+Z8 1
+ZA 0
+Z9 1
+SN 1004-731X
+UT CSCD:4054316
+ER
+
+PT J
+AU Yang Xiaoyu
+   Huang Yuyu
+Z2 杨晓宇
+   黄毓瑜
+TI Surfels:a New Algorithm of Real-time Rendering
+Z1 基于Surfels的实时泻染技术研究
+Z3 工程图学学报
+SO Journal of Engineering Graphics
+VL 24
+IS 1
+BP 71
+EP 77
+AR 1003-0158(2003)24:1<71:JYSDSS>2.0.TX;2-P
+DT Article
+PD 2003
+PY 2003
+Z8 0
+ZS 0
+ZB 0
+ZR 0
+TC 0
+Z9 0
+SN 1003-0158
+UT CSCD:1353352
+ER
+
+PT J
+AU Aubel, A
+   Boulic, R
+   Thalmann, D
+TI Real-time display of virtual humans: Levels of details and impostors
+SO IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY
+VL 10
+IS 2
+BP 207
+EP 217
+DI 10.1109/76.825720
+DT Article
+PD MAR 2000
+PY 2000
+RI Thalmann, Daniel/AAL-1097-2020; Thalmann, Daniel/A-4347-2008; BOULIC, RONAN/A-9108-2008
+OI Thalmann, Daniel/0000-0002-0451-7491; Thalmann,
+   Daniel/0000-0002-0451-7491; BOULIC, RONAN/0000-0001-9176-6877
+ZB 0
+Z8 9
+ZR 0
+ZS 0
+ZA 0
+TC 47
+Z9 56
+SN 1051-8215
+EI 1558-2205
+UT WOS:000086167400005
+ER
+
+PT J
+AU LU Xiong
+   SONG Aiguo
+Z2 陆熊
+   宋爱国
+TI Research of RTX Based Real-Time Computation Control for Haptic Rendering
+   System
+Z1 基于RTX的力/触觉再现系统实时性实现方法研究
+Z3 测控技术
+SO Measurement & Control Technology
+VL 26
+IS 11
+BP 64
+EP 67
+AR 1000-8829(2007)26:11<64:JYRDLC>2.0.TX;2-L
+DT Article
+PD 2007
+PY 2007
+ZR 0
+Z8 1
+ZB 0
+ZS 0
+TC 0
+Z9 1
+SN 1000-8829
+UT CSCD:3008486
+ER
+
+PT J
+AU Fang Jianwen
+   Yu Jinhui
+   Ma Wenlong
+Z2 方建文
+   于金辉
+   马文龙
+TI Hardware-Accelerated Real-time Rendering of Water Surface
+Z1 图形硬件加速的实时水面绘制
+Z3 计算机工程与应用
+SO Computer Engineering and Application
+VL 42
+IS 15
+BP 86
+EP 88
+AR 1002-8331(2006)42:15<86:TXYJJS>2.0.TX;2-2
+DT Article
+PD 2006
+PY 2006
+ZB 0
+ZS 0
+Z8 2
+TC 0
+ZR 0
+Z9 2
+SN 1002-8331
+UT CSCD:2481621
+ER
+
+PT J
+AU DU Jinlian
+   TIAN Chunshuang
+   LIAO Husheng
+Z2 杜金莲
+   田春爽
+   廖湖声
+TI Modeling and Real-time Rendering Technology of Large Scale Grassland
+Z1 一种大规模草地的建模与实时绘制技术
+Z3 系统仿真学报
+SO Journal of System Simulation
+VL 17
+IS 10
+BP 2410
+EP 2413
+AR 1004-731X(2005)17:10<2410:YZDGMC>2.0.TX;2-2
+DT Article
+PD 2005
+PY 2005
+ZS 0
+Z8 2
+TC 0
+ZA 0
+ZR 0
+ZB 0
+Z9 2
+SN 1004-731X
+UT CSCD:2193105
+ER
+
+PT J
+AU MAO Guoc-hao
+   WANG Su
+   DING You-dong
+Z2 毛国超
+   王骕
+   丁友东
+TI Real-time rendering of Chinese painting based on programmable graphics
+   hardware
+Z1 基于可编程流水线的水墨画效果实时绘制
+Z3 计算机工程与设计
+SO Computer Engineering and Design
+VL 30
+IS 13
+BP 3175
+EP 3179,3233
+AR 1000-7024(2009)30:13<3175:JYKBCL>2.0.TX;2-9
+DT Article
+PD 2009
+PY 2009
+ZR 0
+TC 0
+ZA 0
+Z8 0
+ZB 0
+ZS 0
+Z9 0
+SN 1000-7024
+UT CSCD:3601741
+ER
+
+PT J
+AU LEI Lixing
+   FAN Xiande
+   XU Zhenzhong
+Z2 雷励星
+   范贤德
+   徐振中
+TI Real time rendering of atmospheric effects for flight simulators
+Z1 面向飞行模拟的大气效果实时绘制技术
+Z3 清华大学学报. 自然科学版
+SO Journal of Tsinghua University. Science and Technology
+VL 49
+IS 7
+BP 1019
+EP 1022
+AR 1000-0054(2009)49:7<1019:MXFXMN>2.0.TX;2-K
+DT Article
+PD 2009
+PY 2009
+ZB 0
+ZA 0
+Z8 0
+TC 0
+ZR 0
+ZS 0
+Z9 0
+SN 1000-0054
+UT CSCD:3508769
+ER
+
+PT J
+AU WANG Shan
+Z2 王珊
+TI Adaptive shadow maps driven by visual field
+Z1 视野驱动的自适应阴影图
+Z3 计算机工程与应用
+SO Computer Engineering and Application
+VL 47
+IS 15
+BP 209
+EP 212
+AR 1002-8331(2011)47:15<209:SYQDDZ>2.0.TX;2-I
+DT Article
+PD 2011
+PY 2011
+ZR 0
+TC 0
+Z8 0
+ZS 0
+ZA 0
+ZB 0
+Z9 0
+SN 1002-8331
+UT CSCD:4208557
+ER
+
+PT J
+AU WU Lei
+   CHEN Leiting
+   HE Mingyun
+Z2 吴磊
+   陈雷霆
+   何明耘
+TI Interactive real-time water rendering
+Z1 交互式实时水面渲染
+Z3 计算机应用研究
+SO Application Research of Computers
+VL 25
+IS 8
+BP 2387
+EP 2389,2440
+AR 1001-3695(2008)25:8<2387:JHSSSS>2.0.TX;2-A
+DT Article
+PD 2008
+PY 2008
+ZA 0
+ZS 0
+ZB 0
+ZR 0
+TC 0
+Z8 1
+Z9 1
+SN 1001-3695
+UT CSCD:3330280
+ER
+
+PT J
+AU Li Yanmei
+   Chen Leiting
+   Liu Qihe
+   Zhou Jun
+   Rao Yunbo
+Z2 李艳梅
+   陈雷霆
+   刘启和
+   周骏
+   饶云波
+TI Survey of instant radiosity
+Z1 立即辐射度综述
+Z3 计算机应用研究
+SO Application Research of Computers
+VL 28
+IS 2
+BP 401
+EP 405
+AR 1001-3695(2011)28:2<401:LJFSDZ>2.0.TX;2-3
+DT Review
+PD 2011
+PY 2011
+ZA 0
+TC 0
+Z8 0
+ZR 0
+ZS 0
+ZB 0
+Z9 0
+SN 1001-3695
+UT CSCD:4128763
+ER
+
+EF
