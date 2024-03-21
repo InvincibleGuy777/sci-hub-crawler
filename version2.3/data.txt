@@ -1,0 +1,1236 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Li, X.
+   Wang, H.
+   Tseng, K.-K.
+TI GaussianDiffusion: 3D Gaussian Splatting for Denoising Diffusion
+   Probabilistic Models with Structured Noise [arXiv]
+SO GaussianDiffusion: 3D Gaussian Splatting for Denoising Diffusion
+   Probabilistic Models with Structured Noise [arXiv]
+DT Preprint
+PD 2023
+PY 2023
+TC 0
+ZB 0
+ZA 0
+ZS 0
+ZR 0
+Z8 0
+Z9 0
+DA 2023-12-07
+UT INSPEC:24149563
+ER
+
+PT J
+AU Lee, B.
+   Lee, H.
+   Sun, X.
+   Ali, U.
+   Park, E.
+TI Deblurring 3D Gaussian Splatting [arXiv]
+SO Deblurring 3D Gaussian Splatting [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+ZR 0
+Z8 0
+ZB 0
+ZA 0
+TC 0
+ZS 0
+Z9 0
+DA 2024-01-18
+UT INSPEC:24304257
+ER
+
+PT J
+AU Yu, Z.
+   Chen, A.
+   Huang, B.
+   Sattler, T.
+   Geiger, A.
+TI Mip-Splatting: Alias-free 3D Gaussian Splatting [arXiv]
+SO Mip-Splatting: Alias-free 3D Gaussian Splatting [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+ZS 0
+ZR 0
+TC 0
+ZA 0
+ZB 0
+Z8 0
+Z9 0
+DA 2024-01-06
+UT INSPEC:24221483
+ER
+
+PT J
+AU Huang, L.
+   Bai, J.
+   Guo, J.
+   Guo, Y.
+TI GS++: Error Analyzing and Optimal Gaussian Splatting [arXiv]
+SO GS++: Error Analyzing and Optimal Gaussian Splatting [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+TC 0
+Z8 0
+ZS 0
+ZB 0
+ZA 0
+ZR 0
+Z9 0
+DA 2024-02-23
+UT INSPEC:24564128
+ER
+
+PT J
+AU Li, M.
+   Yao, S.
+   Xie, Z.
+   Chen, K.
+   Jiang, Y.-G.
+TI GaussianBody: Clothed Human Reconstruction via 3d Gaussian Splatting
+   [arXiv]
+SO GaussianBody: Clothed Human Reconstruction via 3d Gaussian Splatting
+   [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+Z8 0
+ZS 0
+ZR 0
+TC 0
+ZA 0
+ZB 0
+Z9 0
+DA 2024-02-08
+UT INSPEC:24464608
+ER
+
+PT J
+AU Chen, Y.
+   Chen, Z.
+   Zhang, C.
+   Wang, F.
+   Yang, X.
+   Wang, Y.
+   Cai, Z.
+   Yang, L.
+   Liu, H.
+   Lin, G.
+TI GaussianEditor: Swift and Controllable 3D Editing with Gaussian
+   Splatting [arXiv]
+SO GaussianEditor: Swift and Controllable 3D Editing with Gaussian
+   Splatting [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+Z8 0
+ZS 0
+ZB 0
+ZR 0
+TC 0
+ZA 0
+Z9 0
+DA 2024-01-06
+UT INSPEC:24220170
+ER
+
+PT J
+AU Yan, Z.
+   Low, W.F.
+   Chen, Y.
+   Lee, G.H.
+TI Multi-Scale 3D Gaussian Splatting for Anti-Aliased Rendering [arXiv]
+SO Multi-Scale 3D Gaussian Splatting for Anti-Aliased Rendering [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+ZA 0
+ZB 0
+ZR 0
+ZS 0
+TC 0
+Z8 0
+Z9 0
+DA 2024-01-06
+UT INSPEC:24221937
+ER
+
+PT J
+AU Meyer, L.
+   Erich, F.
+   Yoshiyasu, Y.
+   Stamminger, M.
+   Ando, N.
+   Domae, Y.
+TI PEGASUS: Physically Enhanced Gaussian Splatting Simulation System for
+   6DOF Object Pose Dataset Generation [arXiv]
+SO PEGASUS: Physically Enhanced Gaussian Splatting Simulation System for
+   6DOF Object Pose Dataset Generation [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+Z8 0
+TC 0
+ZB 0
+ZA 0
+ZS 0
+ZR 0
+Z9 0
+DA 2024-01-18
+UT INSPEC:24305173
+ER
+
+PT J
+AU Bai, J.
+   Huang, L.
+   Guo, J.
+   Gong, W.
+   Li, Y.
+   Guo, Y.
+TI 360-GS: Layout-guided Panoramic Gaussian Splatting For Indoor Roaming
+   [arXiv]
+SO 360-GS: Layout-guided Panoramic Gaussian Splatting For Indoor Roaming
+   [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+ZB 0
+ZA 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+DA 2024-02-23
+UT INSPEC:24564129
+ER
+
+PT J
+AU Radl, L.
+   Steiner, M.
+   Parger, M.
+   Weinrauch, A.
+   Kerbl, B.
+   Steinberger, M.
+TI StopThePop: Sorted Gaussian Splatting for View-Consistent Real-time
+   Rendering [arXiv]
+SO StopThePop: Sorted Gaussian Splatting for View-Consistent Real-time
+   Rendering [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+TC 0
+Z8 0
+ZR 0
+ZS 0
+ZB 0
+ZA 0
+Z9 0
+DA 2024-02-23
+UT INSPEC:24564046
+ER
+
+PT J
+AU Ye, M.
+   Danelljan, M.
+   Yu, F.
+   Ke, L.
+TI Gaussian Grouping: Segment and Edit Anything in 3D Scenes [arXiv]
+SO Gaussian Grouping: Segment and Edit Anything in 3D Scenes [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+ZB 0
+ZR 0
+Z8 0
+ZA 0
+TC 0
+ZS 0
+Z9 0
+DA 2024-01-06
+UT INSPEC:24223303
+ER
+
+PT J
+AU Tang, J.
+   Ren, J.
+   Zhou, H.
+   Liu, Z.
+   Zeng, G.
+TI DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content
+   Creation [arXiv]
+SO DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content
+   Creation [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+ZS 0
+ZA 0
+ZB 0
+Z8 0
+ZR 0
+TC 0
+Z9 0
+DA 2024-02-08
+UT INSPEC:24483608
+ER
+
+PT J
+AU Guedon, A.
+   Lepetit, V.
+TI SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh
+   Reconstruction and High-Quality Mesh Rendering [arXiv]
+SO SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh
+   Reconstruction and High-Quality Mesh Rendering [arXiv]
+DT Preprint
+PD 2023
+PY 2023
+TC 0
+ZS 0
+ZA 0
+ZR 0
+ZB 0
+Z8 0
+Z9 0
+DA 2023-12-07
+UT INSPEC:24150420
+ER
+
+PT J
+AU Feng, Y.
+   Feng, X.
+   Shang, Y.
+   Jiang, Y.
+   Yu, C.
+   Zong, Z.
+   Shao, T.
+   Wu, H.
+   Zhou, K.
+   Jiang, C.
+   Yang, Y.
+TI Gaussian Splashing: Dynamic Fluid Synthesis with Gaussian Splatting
+   [arXiv]
+SO Gaussian Splashing: Dynamic Fluid Synthesis with Gaussian Splatting
+   [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+ZB 0
+ZA 0
+TC 0
+ZS 0
+ZR 0
+Z8 0
+Z9 0
+DA 2024-02-15
+UT INSPEC:24513713
+ER
+
+PT J
+AU Yi, T.
+   Fang, J.
+   Wu, G.
+   Xie, L.
+   Zhang, X.
+   Liu, W.
+   Tian, Q.
+   Wang, X.
+TI GaussianDreamer: Fast Generation from Text to 3D Gaussian Splatting with
+   Point Cloud Priors [arXiv]
+SO GaussianDreamer: Fast Generation from Text to 3D Gaussian Splatting with
+   Point Cloud Priors [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+Z8 0
+TC 0
+ZR 0
+ZA 0
+ZB 0
+ZS 0
+Z9 0
+DA 2024-02-08
+UT INSPEC:24501915
+ER
+
+PT J
+AU Wang Heng
+   Ji Hong-bing
+   Gao Xin-bo
+TI A novel splatting algorithm based on directional reconstruction filter
+   kernels
+SO Journal of Xidian University
+VL 32
+IS 4
+BP 532
+EP 7
+DT Journal Paper
+PD Aug. 2005
+PY 2005
+ZS 0
+ZB 0
+TC 0
+Z8 3
+ZA 0
+ZR 0
+Z9 3
+SN 1001-2400
+DA 2005-08-01
+UT INSPEC:8663301
+ER
+
+PT J
+AU Chen, Z.
+   Wang, F.
+   Liu, H.
+TI Text-to-3D using Gaussian Splatting [arXiv]
+SO Text-to-3D using Gaussian Splatting [arXiv]
+DT Preprint
+PD 2023
+PY 2023
+TC 0
+ZB 0
+ZA 0
+Z8 0
+ZS 0
+ZR 0
+Z9 0
+DA 2023-10-26
+UT INSPEC:23859034
+ER
+
+PT J
+AU Chung, J.
+   Oh, J.
+   Lee, K.M.
+TI Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot
+   Images [arXiv]
+SO Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot
+   Images [arXiv]
+DT Preprint
+PD 2023
+PY 2023
+ZS 0
+ZB 0
+Z8 0
+TC 0
+ZR 0
+ZA 0
+Z9 0
+DA 2023-12-07
+UT INSPEC:24150843
+ER
+
+PT J
+AU Moreau, A.
+   Song, J.
+   Dhamo, H.
+   Shaw, R.
+   Zhou, Y.
+   Perez-Pellitero, E.
+TI Human Gaussian Splatting: Real-time Rendering of Animatable Avatars
+   [arXiv]
+SO Human Gaussian Splatting: Real-time Rendering of Animatable Avatars
+   [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+ZS 0
+ZB 0
+ZA 0
+TC 0
+ZR 0
+Z8 0
+Z9 0
+DA 2024-01-06
+UT INSPEC:24221949
+ER
+
+PT J
+AU Waczynska, J.
+   Borycki, P.
+   Tadeja, S.
+   Tabor, J.
+   Spurek, P.
+TI GaMeS: mesh-based adapting and modification of gaussian splatting
+   [arXiv]
+SO GaMeS: mesh-based adapting and modification of gaussian splatting
+   [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+ZA 0
+ZB 0
+ZR 0
+ZS 0
+Z8 0
+TC 0
+Z9 0
+DA 2024-02-23
+UT INSPEC:24564610
+ER
+
+PT J
+AU Liu, X.
+   Zhan, X.
+   Tang, J.
+   Shan, Y.
+   Zeng, G.
+   Lin, D.
+   Liu, X.
+   Liu, Z.
+TI HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting
+   [arXiv]
+SO HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting
+   [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+ZR 0
+ZA 0
+Z8 0
+ZS 0
+TC 0
+ZB 0
+Z9 0
+DA 2024-01-06
+UT INSPEC:24221709
+ER
+
+PT J
+AU Huang, J.
+   Yu, H.
+TI Point'n Move: Interactive Scene Object Manipulation on Gaussian
+   Splatting Radiance Fields [arXiv]
+SO Point'n Move: Interactive Scene Object Manipulation on Gaussian
+   Splatting Radiance Fields [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+Z8 0
+ZB 0
+ZA 0
+ZS 0
+TC 0
+ZR 0
+Z9 0
+DA 2024-01-06
+UT INSPEC:24221595
+ER
+
+PT J
+AU Zhu, L.
+   Wang, Z.
+   Jin, Z.
+   Lin, G.
+   Yu, L.
+TI Deformable Endoscopic Tissues Reconstruction with Gaussian Splatting
+   [arXiv]
+SO Deformable Endoscopic Tissues Reconstruction with Gaussian Splatting
+   [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+ZS 0
+TC 0
+Z8 0
+ZA 0
+ZB 0
+ZR 0
+Z9 0
+DA 2024-02-08
+UT INSPEC:24465634
+ER
+
+PT J
+AU Fan, Z.
+   Wang, K.
+   Wen, K.
+   Zhu, Z.
+   Xu, D.
+   Wang, Z.
+TI LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and
+   200+ FPS [arXiv]
+SO LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and
+   200+ FPS [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+ZB 0
+ZR 0
+ZA 0
+TC 0
+ZS 0
+Z8 0
+Z9 0
+DA 2024-01-06
+UT INSPEC:24221990
+ER
+
+PT J
+AU Zielonka, W.
+   Bagautdinov, T.
+   Saito, S.
+   Zollhofer, M.
+   Thies, J.
+   Romero, J.
+TI Drivable 3D Gaussian Avatars [arXiv]
+SO Drivable 3D Gaussian Avatars [arXiv]
+DT Preprint
+PD 2023
+PY 2023
+ZR 0
+ZS 0
+ZB 0
+ZA 0
+TC 0
+Z8 0
+Z9 0
+DA 2023-12-07
+UT INSPEC:24147955
+ER
+
+PT J
+AU Chen, Y.
+   Wang, H.
+TI EndoGaussians: Single View Dynamic Gaussian Splatting for Deformable
+   Endoscopic Tissues Reconstruction [arXiv]
+SO EndoGaussians: Single View Dynamic Gaussian Splatting for Deformable
+   Endoscopic Tissues Reconstruction [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+ZS 0
+Z8 0
+ZR 0
+ZB 0
+ZA 0
+TC 0
+Z9 0
+DA 2024-02-08
+UT INSPEC:24466720
+ER
+
+PT J
+AU Katsumata, K.
+   Vo, D.M.
+   Nakayama, H.
+TI An Efficient 3D Gaussian Representation for Monocular/Multi-view Dynamic
+   Scenes [arXiv]
+SO An Efficient 3D Gaussian Representation for Monocular/Multi-view Dynamic
+   Scenes [arXiv]
+DT Preprint
+PD 2023
+PY 2023
+TC 0
+ZR 0
+Z8 0
+ZA 0
+ZB 0
+ZS 0
+Z9 0
+DA 2023-12-07
+UT INSPEC:24150658
+ER
+
+PT J
+AU Niedermayr, S.
+   Stumpfegger, J.
+   Westermann, R.
+TI Compressed 3D Gaussian Splatting for Accelerated Novel View Synthesis
+   [arXiv]
+SO Compressed 3D Gaussian Splatting for Accelerated Novel View Synthesis
+   [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+ZA 0
+ZB 0
+ZS 0
+ZR 0
+Z8 0
+TC 0
+Z9 0
+DA 2024-01-25
+UT INSPEC:24354614
+ER
+
+PT J
+AU Xiong, H.
+   Muttukuru, S.
+   Upadhyay, R.
+   Chari, P.
+   Kadambi, A.
+TI SparseGS: Real-Time 360{\deg} Sparse View Synthesis using Gaussian
+   Splatting [arXiv]
+SO SparseGS: Real-Time 360{\deg} Sparse View Synthesis using Gaussian
+   Splatting [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+ZS 0
+Z8 0
+ZB 0
+ZR 0
+TC 0
+ZA 0
+Z9 0
+DA 2024-01-06
+UT INSPEC:24223100
+ER
+
+PT J
+AU Franke, L.
+   Ruckert, D.
+   Fink, L.
+   Stamminger, M.
+TI TRIPS: trilinear point splatting for real-time radiance field rendering
+   [arXiv]
+SO TRIPS: trilinear point splatting for real-time radiance field rendering
+   [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+TC 0
+ZA 0
+ZB 0
+ZR 0
+Z8 0
+ZS 0
+Z9 0
+DA 2024-02-02
+UT INSPEC:24407312
+ER
+
+PT J
+AU Zhu, Z.
+   Fan, Z.
+   Jiang, Y.
+   Wang, Z.
+TI FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting [arXiv]
+SO FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+TC 0
+ZB 0
+ZS 0
+Z8 0
+ZR 0
+ZA 0
+Z9 0
+DA 2024-01-06
+UT INSPEC:24223199
+ER
+
+PT J
+AU Navaneet, K.L.
+   Meibodi, K.P.
+   Koohpayegani, S.A.
+   Pirsiavash, H.
+TI Compact3D: Compressing Gaussian Splat Radiance Field Models with Vector
+   Quantization [arXiv]
+SO Compact3D: Compressing Gaussian Splat Radiance Field Models with Vector
+   Quantization [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+ZR 0
+ZB 0
+ZS 0
+ZA 0
+TC 0
+Z8 0
+Z9 0
+DA 2024-01-06
+UT INSPEC:24222526
+ER
+
+PT J
+AU Vilesov, A.
+   Chari, P.
+   Kadambi, A.
+TI CG3D: Compositional Generation for Text-to-3D via Gaussian Splatting
+   [arXiv]
+SO CG3D: Compositional Generation for Text-to-3D via Gaussian Splatting
+   [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+ZB 0
+Z8 0
+ZA 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+DA 2024-01-06
+UT INSPEC:24222212
+ER
+
+PT J
+AU Liang, Z.
+   Zhang, Q.
+   Feng, Y.
+   Shan, Y.
+   Jia, K.
+TI GS-IR: 3D Gaussian Splatting for Inverse Rendering [arXiv]
+SO GS-IR: 3D Gaussian Splatting for Inverse Rendering [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+ZA 0
+Z8 0
+ZS 0
+ZR 0
+TC 0
+ZB 0
+Z9 0
+DA 2024-01-06
+UT INSPEC:24221471
+ER
+
+PT J
+AU Chung, J.
+   Lee, S.
+   Nam, H.
+   Lee, J.
+   Lee, K.M.
+TI LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes
+   [arXiv]
+SO LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes
+   [arXiv]
+DT Preprint
+PD 2023
+PY 2023
+Z8 0
+ZA 0
+ZS 0
+ZR 0
+ZB 0
+TC 0
+Z9 0
+DA 2023-12-07
+UT INSPEC:24150838
+ER
+
+PT J
+AU Jena, R.
+   Iyer, G.S.
+   Choudhary, S.
+   Smith, B.
+   Chaudhari, P.
+   Gee, J.
+TI SplatArmor: Articulated Gaussian splatting for animatable humans from
+   monocular RGB videos [arXiv]
+SO SplatArmor: Articulated Gaussian splatting for animatable humans from
+   monocular RGB videos [arXiv]
+DT Preprint
+PD 2023
+PY 2023
+ZB 0
+ZA 0
+Z8 0
+ZR 0
+TC 0
+ZS 0
+Z9 0
+DA 2023-12-07
+UT INSPEC:24149401
+ER
+
+PT J
+AU Nguyen, V.M.
+   Sandidge, E.
+   Mahendrakar, T.
+   White, R.T.
+TI Characterizing Satellite Geometry via Accelerated 3D Gaussian Splatting
+   [arXiv]
+SO Characterizing Satellite Geometry via Accelerated 3D Gaussian Splatting
+   [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+ZA 0
+ZR 0
+TC 0
+Z8 0
+ZS 0
+ZB 0
+Z9 0
+DA 2024-01-25
+UT INSPEC:24354663
+ER
+
+PT J
+AU Jiang, Y.
+   Yu, C.
+   Xie, T.
+   Li, X.
+   Feng, Y.
+   Wang, H.
+   Li, M.
+   Lau, H.
+   Gao, F.
+   Yang, Y.
+   Jiang, C.
+TI VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System
+   in Virtual Reality [arXiv]
+SO VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System
+   in Virtual Reality [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+ZA 0
+ZS 0
+ZB 0
+TC 0
+Z8 0
+ZR 0
+Z9 0
+DA 2024-02-15
+UT INSPEC:24514539
+ER
+
+PT J
+AU Gao, J.
+   Gu, C.
+   Lin, Y.
+   Zhu, H.
+   Cao, X.
+   Zhang, L.
+   Yao, Y.
+TI Relightable 3D Gaussian: Real-time Point Cloud Relighting with BRDF
+   Decomposition and Ray Tracing [arXiv]
+SO Relightable 3D Gaussian: Real-time Point Cloud Relighting with BRDF
+   Decomposition and Ray Tracing [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+ZR 0
+ZS 0
+TC 0
+ZA 0
+ZB 0
+Z8 0
+Z9 0
+DA 2024-01-06
+UT INSPEC:24221020
+ER
+
+PT C
+AU Johnson, TM
+   McAllister, DF
+BE Woods, AJ
+   Bolas, MT
+   Merritt, JO
+   McDowall, IE
+TI Real-time stereo imaging of gaseous phenomena
+SO Stereoscopic Displays and Virtual Reality Systems XII
+SE PROCEEDINGS OF THE SOCIETY OF PHOTO-OPTICAL INSTRUMENTATION ENGINEERS
+   (SPIE)
+VL 5664
+BP 92
+EP 103
+DI 10.1117/12.584586
+DT Proceedings Paper
+PD 2005
+PY 2005
+CT Conference on Stereoscopic Display and Virtural Reality Systems XII
+CY JAN 17-20, 2005
+CL San Jose, CA
+SP SPIE; Soc Imaging Sci & Technol
+ZB 0
+ZR 0
+TC 2
+ZS 0
+Z8 0
+ZA 0
+Z9 2
+SN 0277-786X
+BN 0-8194-5637-3
+DA 2005-01-01
+UT WOS:000228784400011
+ER
+
+PT J
+AU Zhong, Z.
+   Cai, Y.
+   Guo, X.
+   Solberg, T.
+   Mao, W.
+TI A Splatting Method to Generate DRRs for Deformed CT Volume
+SO MEDICAL PHYSICS
+VL 39
+IS 6
+BP 3678
+EP 3678
+DI 10.1118/1.4734948
+DT Meeting Abstract
+PD JUN 2012
+PY 2012
+CT 54th Annual Meeting and Exhibition of the
+   American-Association-of-Physicists-in-Medicine (AAPM)
+CY JUL 29-AUG 02, 2012
+CL Charlotte, NC
+SP Amer Assoc Physicists Med (AAPM)
+OI Solberg, Timothy/0000-0001-8829-7774
+ZA 0
+ZB 0
+TC 0
+Z8 0
+ZR 0
+ZS 0
+Z9 0
+SN 0094-2405
+DA 2012-10-24
+UT WOS:000308905804343
+PM 28519819
+ER
+
+PT S
+AU Bhalerao, A
+   Westin, CF
+BE Ellis, RE
+   Peters, TM
+TI Tensor splats: Visualising tensor fields by texture mapped volume
+   rendering
+SO MEDICAL IMAGE COMPUTING AND COMPUTER-ASSISTED INTERVENTION - MICCAI
+   2003, PT 2
+SE Lecture Notes in Computer Science
+VL 2879
+BP 294
+EP 302
+DT Article; Proceedings Paper
+PD 2003
+PY 2003
+CT 6th International Conference on Medical Image Computing and
+   Computer-Assisted Intervention
+CY NOV 15-18, 2003
+CL MONTREAL, CANADA
+SP Robarts Res Inst; No Digital Inc
+ZR 0
+ZS 0
+Z8 0
+TC 10
+ZB 0
+ZA 0
+Z9 12
+SN 0302-9743
+EI 1611-3349
+BN 3-540-20464-4
+DA 2003-01-01
+UT WOS:000188180400037
+ER
+
+PT J
+AU Yinlong Sun
+   Ess, E.
+   Sapirstein, D.
+   Huber, M.
+TI Visualizing oceanic and atmospheric flows with streamline splatting
+SO Proceedings of the SPIE - The International Society for Optical
+   Engineering
+VL 6060
+BP 606002
+EP 1-12
+DI 10.1117/12.643629
+DT Conference Paper; Journal Paper
+PD 15 Jan. 2006
+PY 2006
+CT Visualization and Data Analysis 2006
+CY 16 Jan. 2006
+CL San Jose, CA, USA
+RI Huber, Matthew/A-7677-2008
+OI Huber, Matthew/0000-0002-2771-9977
+ZR 0
+Z8 0
+ZB 0
+TC 0
+ZA 0
+ZS 0
+Z9 0
+SN 0277-786X
+DA 2006-01-15
+UT INSPEC:10069399
+ER
+
+PT J
+AU Wang Rong-ben
+   Li Lin-hui
+   Zheng Ke-qin
+TI Study on 3D visualization technology of terrain information for
+   intelligent vehicle based on laser scanning data
+SO Journal of Highway and Transportation Research and Development
+VL 25
+IS 1
+BP 134
+EP 8
+DT Journal Paper
+PD Jan. 2008
+PY 2008
+ZR 0
+Z8 0
+ZB 0
+ZA 0
+ZS 0
+TC 0
+Z9 0
+SN 1002-0268
+DA 2008-01-01
+UT INSPEC:9779928
+ER
+
+PT J
+AU Lu, T.
+   Yu, M.
+   Xu, L.
+   Xiangli, Y.
+   Wang, L.
+   Lin, D.
+   Dai, B.
+TI Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering [arXiv]
+SO Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+ZS 0
+TC 0
+ZB 0
+ZR 0
+Z8 0
+ZA 0
+Z9 0
+DA 2024-01-06
+UT INSPEC:24223066
+ER
+
+PT J
+AU Kerbl, Bernhard
+   Kopanas, Georgios
+   Leimkuehler, Thomas
+   Drettakis, George
+TI 3D Gaussian Splatting for Real-Time Radiance Field Rendering
+SO ACM TRANSACTIONS ON GRAPHICS
+VL 42
+IS 4
+AR 139
+DI 10.1145/3592433
+DT Article; Proceedings Paper
+PD AUG 2023
+PY 2023
+CT SIGGRAPH Meeting
+CY AUG 06-10, 2023
+CL Los Angeles, CA
+SP SIGGRAPH
+ZB 0
+TC 6
+ZS 0
+Z8 0
+ZR 0
+ZA 0
+Z9 7
+SN 0730-0301
+EI 1557-7368
+DA 2023-09-17
+UT WOS:001044671300105
+ER
+
+PT J
+AU Bai, S.
+   Li, J.
+TI Progress and Prospects in 3D Generative AI: A Technical Overview
+   including 3D human [arXiv]
+SO Progress and Prospects in 3D Generative AI: A Technical Overview
+   including 3D human [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+ZA 0
+ZR 0
+Z8 0
+TC 0
+ZS 0
+ZB 0
+Z9 0
+DA 2024-01-25
+UT INSPEC:24354678
+ER
+
+PT J
+AU Cotton, R.J.
+   Peyton, C.
+TI Dynamic Gaussian Splatting from Markerless Motion Capture can
+   Reconstruct Infants Movements [arXiv]
+SO Dynamic Gaussian Splatting from Markerless Motion Capture can
+   Reconstruct Infants Movements [arXiv]
+DT Preprint
+PD 2023
+PY 2023
+ZB 0
+ZR 0
+TC 0
+ZS 0
+Z8 0
+ZA 0
+Z9 0
+DA 2023-11-16
+UT INSPEC:23980773
+ER
+
+PT J
+AU Chen, Y.
+   Gu, C.
+   Jiang, J.
+   Zhu, X.
+   Zhang, L.
+TI Periodic Vibration Gaussian: Dynamic Urban Scene Reconstruction and
+   Real-time Rendering [arXiv]
+SO Periodic Vibration Gaussian: Dynamic Urban Scene Reconstruction and
+   Real-time Rendering [arXiv]
+DT Preprint
+PD 2024
+PY 2024
+ZA 0
+TC 0
+Z8 0
+ZS 0
+ZR 0
+ZB 0
+Z9 0
+DA 2024-01-06
+UT INSPEC:24222679
+ER
+
+PT J
+AU Liang, Y.
+   Yang, X.
+   Lin, J.
+   Li, H.
+   Xu, X.
+   Chen, Y.
+TI LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval
+   Score Matching [arXiv]
+SO LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval
+   Score Matching [arXiv]
+DT Preprint
+PD 2023
+PY 2023
+Z8 0
+ZR 0
+ZS 0
+ZA 0
+ZB 0
+TC 0
+Z9 0
+DA 2023-12-07
+UT INSPEC:24149589
+ER
+
+EF
